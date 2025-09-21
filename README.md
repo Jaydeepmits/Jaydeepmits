@@ -1,29 +1,33 @@
-# Hi there, I'm Jaydeep Singh 👋
+# 👋 Hi, I'm Jaydeep!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Competitive+Programmer⚡;Math+Geek🧩;Just+Obsessed!!😎)](https://git.io/typing-svg)
 
-**B.Tech Student | Passionate Programmer | Mathematics Enthusiast**
 
----
-
-### 🚀 About Me
-- **Student at B.Tech:** Focused on learning, building, and exploring the boundaries of technology.
-- **Programming Languages:** Skilled in **C++** and **Python** with a strong foundation in mathematics.
-- **Problem Solver:** Active on competitive coding platforms.
-
-### 🛠️ Skills & Expertise
-- **Languages:** C++, Python
-- **Mathematics:** Analytical approach to problem-solving and algorithm design
-- **Competitive Programming:** Regular participant on [Codeforces](https://codeforces.com/profile/Jaydeep_Singh) and [LeetCode](https://leetcode.com/u/DabJ8K855K/)
-
-### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jaydeep-singh-285779297/)
-- [Codeforces](https://codeforces.com/profile/Jaydeep_Singh)
-- [LeetCode](https://leetcode.com/u/DabJ8K855K/)
-
-### ⚡ Fun Facts
-- I love reading—whether it's tech blogs, math theory, or fiction.
-- Cricket fan: Always up for a match or a good cricket discussion!
-- Mathematics is not just a subject—it's my way to approach challenges.
+![Visitor Count](https://komarev.com/ghpvc/?username=Jaydeepmits&color=blue)
 
 ---
 
-> 📈 **Always learning, always growing. Let’s connect and build something great!**
+## 🚀 About Me
+- 🌱 Currently learning: **Data Structures & Algorithms,Competitive Programming,Mathematics**  
+- 💡 Interested in **Problem Solving** and **Open Source**  
+- 🤝 Looking to collaborate on exciting projects  
+- 📫 Reach me at: **jsbaghel1729@gmail.com**  
+
+---
+
+## 📊 GitHub Stats
+![Jaydeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaydeepmits&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeepmits&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaydeep-singh-285779297/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://x.com/JaydeepS53660) 
+
+---
+## CP profile
+[![Codeforces](https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=Codeforces)](https://codeforces.com/profile/Jaydeep_Singh)
+[![Leetcode](https://img.shields.io/badge/Leetcode-light?style=for-the-badge&logo=Leetcode)](https://leetcode.com/u/DabJ8K855K/)
+[![Codechef](https://img.shields.io/badge/Codechef-orange?style=for-the-badge&logo=Codechef)](https://www.codechef.com/users/jaydeep_1729)
+
+✨ *Thanks for visiting my profile! Have a great day!* ✨
