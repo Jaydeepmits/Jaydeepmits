@@ -2,8 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Competitive+Programmer⚡;Math+Geek🧩;Just+Obsessed!!😎)](https://git.io/typing-svg)
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Jaydeepmits&color=blue)
-
 ---
 
 ## 🚀 About Me
