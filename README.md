@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning: **Data Structures & Algorithms,Competitive Programming,Mathematics**  
+- 🌱 Currently learning: **Data Structures & Algorithms,Competitive Programming,Mathematics,Web Development**  
 - 💡 Interested in **Problem Solving** and **Open Source**  
 - 🤝 Looking to collaborate on exciting projects  
 - 📫 Reach me at: **jsbaghel1729@gmail.com**  
